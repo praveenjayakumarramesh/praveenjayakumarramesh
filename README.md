@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Praveen Jaya Kumar Ramesh
+- 👀 I’m interested in learning new technologies and working on ReactJs, Golang projects.
+- 🌱 I’m currently learning Java and NextJs
+- 💞️ I’m looking to collaborate on React/Golang projects.
+- 📫 How to reach me: Mail: mailto:praveenjayakumar.r@gmail.com, Linkedin: https://linkedin.com/in/praveenjayakumarramesh.
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love motorcycle riding and travelling apart from writing code.
